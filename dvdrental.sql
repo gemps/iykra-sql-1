@@ -1,6 +1,3 @@
-select *
-from customer
-
 -- Recomendation Astronaut Film
 select count(title)
 from film
